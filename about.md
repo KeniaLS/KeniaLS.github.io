@@ -9,9 +9,9 @@ order: 1
 
 ## Hello, World!
 
-Hi, I'm **Mario van Rooij**, *a.k.a.* **Meerio**.<br>
-I'm currently doing my internship at **[TNO]**, and previously was a computational student of **[University of Amsterdam]**.<br>
-Please check my [resume] if you wish to know more about me.
+Hello, I'm **Kenia López**, *a.k.a.* **xxx**.<br>
+I'm a Mathematics student at **[Vrije Universiteit Amsterdam]** with a previous background in engineering at **[Polytechnic Univeristy of Catalonia]**.<br>
+Here you have my [resume] if you want to know more about me.
 
 ***
 
