@@ -9,7 +9,7 @@ order: 1
 
 ## Hola!
 
-My name is Kenia López and I am a Mathematics student following a major in Data Science at the Vrije Universiteit Amsterdam.
+My name is Kenia López and I am a Mathematics student following a major in Data Science at the **Vrije Universiteit Amsterdam**.
 I am a geek of numbers, enthusiastic in programming languages and passionate about putting mathematics into practice in the real world.<br>
 Here you have my [resume] if you want to know more about me.
 
