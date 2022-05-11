@@ -8,8 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Mathematics(Data Science) student at [Vrije Universiteit Amsterdam](https://vu.nl/en).<br>
+    My name is Kenia López and I am a Mathematics student following a major in Data Science at the Vrije Universiteit Amsterdam.
+    I am a geek of numbers, enthusiastic in programming languages and passionate about putting mathematics into practice in the real world. <br>
     Please check my [Resume][resume] to find out more about me!<br>
+    
 
     [resume]: /resume/
 
