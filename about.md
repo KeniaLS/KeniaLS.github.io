@@ -7,10 +7,10 @@ sidebar: true
 order: 1
 ---
 
-## Hello, World!
+## Hola!
 
 Hello, I'm **Kenia López**, *a.k.a.* **xxx**.<br>
-I'm a Mathematics student at **[Vrije Universiteit Amsterdam]** with a previous background in engineering at **[Polytechnic Univeristy of Catalonia]**.<br>
+I'm a Mathematics student at **Vrije Universiteit Amsterdam** with a previous background in engineering at **Polytechnic Univeristy of Catalonia**.<br>
 Here you have my [resume] if you want to know more about me.
 
 ***
