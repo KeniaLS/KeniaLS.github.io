@@ -9,8 +9,8 @@ order: 1
 
 ## Hola!
 
-Hello, I'm **Kenia López**, *a.k.a.* **xxx**.<br>
-I'm a Mathematics student at **Vrije Universiteit Amsterdam** with a previous background in engineering at **Polytechnic Univeristy of Catalonia**.<br>
+My name is Kenia López and I am a Mathematics student following a major in Data Science at the Vrije Universiteit Amsterdam.
+I am a geek of numbers, enthusiastic in programming languages and passionate about putting mathematics into practice in the real world.<br>
 Here you have my [resume] if you want to know more about me.
 
 ***
