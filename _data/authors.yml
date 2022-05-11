@@ -2,20 +2,20 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Mario van Rooij
-  email:             mariovanrooij@hotmail.com
+  name:              Kenia López
+  email:             keni_bcn@hotmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Intelligent Imaging Thesis Intern at [TNO](https://www.tno.nl/).<br>
+    Mathematics(Data Science) student at [Vrije Universiteit Amsterdam](https://vu.nl/en).<br>
     Please check my [Resume][resume] to find out more about me!<br>
 
     [resume]: /resume/
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/1639945417598.png
+    path:            /assets/img/IMG_3858 copy.JPG
     # srcset is optional, but can be used to provide higher res versions for retina displays
     # srcset:
     #   1x:
@@ -25,10 +25,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    linkedin:        mario-van-rooij-94a311162
-    github:          Snoeprol
-    stackoverflow:   9903449
-    email:           mariovanrooij@hotmail.com
+    #linkedin:        mario-van-rooij-94a311162
+    github:          KeniaLS
+    #stackoverflow:   9903449
+    email:           keni_bcn@hotmail.com
     # rss:             https://lazyren.github.io/feed.xml
     # facebook:        <username>
     # google:          <number>
